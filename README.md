@@ -1,10 +1,3 @@
-# my-website
+# HTML / CSS
 
-This is a really awesome website.
-
-Updates made on master on GitHub before rebase
-
-## Purpose
-
-This file is just a readme file.
-Making a few changes
+This is a repository for HTML / CSS projects.
